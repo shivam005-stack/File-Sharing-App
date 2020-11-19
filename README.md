@@ -4,11 +4,11 @@
 
 ## Features Of This Project
 <ol>
-1:- User Can Upload Only Single File At A Time.
- 2:- If File Size Is More Than 100kb Then User Will Get An Error . 
- 3:- User Can Download File Through Encrypted Sharing Link.
- 4:- File Can Be Shared To Other Person Through Email.
- 5:- If File Is Uploaded More Than 48 Hours , It will Be Automatically Deleted (This Is Implemented With CRON JOB).
+<li>1:- User Can Upload Only Single File At A Time</li>.
+ <li>2:- If File Size Is More Than 100kb Then User Will Get An Error</li> . 
+<li> 3:- User Can Download File Through Encrypted Sharing Link</li>.
+<li> 4:- File Can Be Shared To Other Person Through Email</li>.
+<li> 5:- If File Is Uploaded More Than 48 Hours , It will Be Automatically Deleted (This Is Implemented With CRON JOB)</li>.
   </ol>
 
 
